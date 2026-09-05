@@ -17,8 +17,6 @@ When spacecraft land on the Moon or Mars, they must identify surface hazards lik
 | :---: | :---: |
 | ![Original Lunar Surface](lunar_surface.jpg) | ![Detected Craters](detected_craters_output.png) |
 
-*(Note: Replace these placeholder paths with screenshots of your actual code results!)*
-
 ---
 
 ## 🛠️ Tech Stack & Requirements
